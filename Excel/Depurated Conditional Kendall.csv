@@ -1,0 +1,53 @@
+,Column_A,Column_B,Transaction Year,Transaction Month,Customer Year,Customer Month,Amount,Population City,Category_Food,Category_Grocery_Net,Category_Grocery_Pos,Category_Health,Category_Home,Category_Kids Pets,Category_Misc_Net,Category_Misc_Pos,Category_Personal Care,Category_Shopping_Net,Category_Shopping_Pos,Category_Transporte,Category_Travel,Gender_M,State_Northeast,State_Southeast,State_Southwest,State_West,Occupation_Alternative therapies,"Occupation_Animals, land and environment",Occupation_Computing and ICT,Occupation_Construction and building,"Occupation_Design, arts and crafts",Occupation_Education and training,Occupation_Engineering,Occupation_Facilities and property services,Occupation_Financial services,Occupation_Garage services,Occupation_Healthcare,"Occupation_Heritage, culture and libraries","Occupation_Hospitality, catering and tourism",Occupation_Languages,Occupation_Legal and court services,Occupation_Manufacturing and production,Occupation_Performing arts and media,"Occupation_Print and publishing, marketing and advertising",Occupation_Retail and customer services,"Occupation_Science, mathematics and statistics","Occupation_Security, uniformed and protective services",Occupation_Social sciences and religion,Occupation_Social work and caring services,Occupation_Sport and leisure,"Occupation_Transport, distribution and logistics",is_fraud
+Column_A,,,,,,,,,,,,,,,,,,,,,,,-0.5425283732977578,-0.2133665412544775,0.30888363748627484,0.4747230635512436,,,,,,,,,,,,,,,,,,,,,,,,,,
+Column_B,,,,,,,,-0.1981421866605582,,,,,,,,,,,,,,,0.26472979077585684,-0.48846157129088147,-0.3186162089119268,0.1861970721551113,,,,,,,,,,,,,,,,,,,,,,,,,,
+Transaction Year,,,,-0.35235849482245296,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Transaction Month,,,-0.35235849482245296,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Customer Year,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Customer Month,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Amount,,,,,,,,,,,0.1626653886414253,-0.10288446925654328,,-0.1294970305805109,0.14019099858201212,-0.13851599153789038,-0.1395016239507159,0.30125394090453156,,-0.17275805676473796,-0.13971127410906403,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.47224378679876955
+Population City,,-0.1981421866605582,,,,,,,,,,,,,,,,,,,,,,0.13351457610866643,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Category_Food,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.11583787453378823
+Category_Grocery_Net,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Category_Grocery_Pos,,,,,,,0.1626653886414253,,,,,,-0.11483846524183842,-0.11145056050626696,-0.1359846520091058,-0.10163755107438735,-0.104706692764157,-0.19015422394142886,-0.14695024219960742,-0.14275249228388656,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.17753990124598076
+Category_Health,,,,,,,-0.10288446925654328,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.1175321739671815
+Category_Home,,,,,,,,,,,-0.11483846524183842,,,,,,,-0.10960537562343305,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.14796381015072285
+Category_Kids Pets,,,,,,,-0.1294970305805109,,,,-0.11145056050626696,,,,,,,-0.10637185477885604,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.11421697234578423
+Category_Misc_Net,,,,,,,0.14019099858201212,,,,-0.1359846520091058,,,,,,,-0.12978794893411508,-0.10029948394064148,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.13261478380375402
+Category_Misc_Pos,,,,,,,-0.13851599153789038,,,,-0.10163755107438735,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Category_Personal Care,,,,,,,-0.1395016239507159,,,,-0.104706692764157,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.1027604622810958
+Category_Shopping_Net,,,,,,,0.30125394090453156,,,,-0.19015422394142886,,-0.10960537562343305,-0.10637185477885604,-0.12978794893411508,,,,-0.14025384665602822,-0.13624738457629823,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0.20691117438977874
+Category_Shopping_Pos,,,,,,,,,,,-0.14695024219960742,,,,-0.10029948394064148,,,-0.14025384665602822,,-0.10529130380357532,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Category_Transporte,,,,,,,-0.17275805676473796,,,,-0.14275249228388656,,,,,,,-0.13624738457629823,-0.10529130380357532,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Category_Travel,,,,,,,-0.13971127410906403,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gender_M,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+State_Northeast,-0.5425283732977578,0.26472979077585684,,,,,,,,,,,,,,,,,,,,,,-0.30818482856178897,-0.16631095210074498,-0.19128162502059462,,,,,,,,,,,,,,,,,,,,,,,,,,
+State_Southeast,-0.2133665412544775,-0.48846157129088147,,,,,,0.13351457610866643,,,,,,,,,,,,,,,-0.30818482856178897,,-0.2196725081839098,-0.252655124674618,,,,,,,,,,,,,,,,,,,,,,,,,,
+State_Southwest,0.30888363748627484,-0.3186162089119268,,,,,,,,,,,,,,,,,,,,,-0.16631095210074498,-0.2196725081839098,,-0.13634452589331,,,,,,,,,,,,,,,,,,,,,,,,,,
+State_West,0.4747230635512436,0.1861970721551113,,,,,,,,,,,,,,,,,,,,,-0.19128162502059462,-0.252655124674618,-0.13634452589331,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupation_Alternative therapies,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Occupation_Animals, land and environment",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupation_Computing and ICT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupation_Construction and building,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Occupation_Design, arts and crafts",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.10944417276439074,,,,,,,,,,,,,,,,,,,
+Occupation_Education and training,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupation_Engineering,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.10944417276439074,,,,,,-0.12955910081810465,,,,,,,,,-0.10179645109771666,,,,,,
+Occupation_Facilities and property services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupation_Financial services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupation_Garage services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupation_Healthcare,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.12955910081810465,,,,,,,,,,,,,,,,,,,
+"Occupation_Heritage, culture and libraries",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Occupation_Hospitality, catering and tourism",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupation_Languages,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupation_Legal and court services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupation_Manufacturing and production,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupation_Performing arts and media,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Occupation_Print and publishing, marketing and advertising",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupation_Retail and customer services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Occupation_Science, mathematics and statistics",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-0.10179645109771666,,,,,,,,,,,,,,,,,,,
+"Occupation_Security, uniformed and protective services",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupation_Social sciences and religion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupation_Social work and caring services,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Occupation_Sport and leisure,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Occupation_Transport, distribution and logistics",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+is_fraud,,,,,,,0.47224378679876955,,-0.11583787453378823,,0.17753990124598076,-0.1175321739671815,-0.14796381015072285,-0.11421697234578423,0.13261478380375402,,-0.1027604622810958,0.20691117438977874,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
